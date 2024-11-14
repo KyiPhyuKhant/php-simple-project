@@ -54,3 +54,18 @@ section {
   margin-bottom: 10px;
   border-radius: 5px;
 }
+
+.slider img {
+  width: 100%;
+  height: auto;
+}
+
+.shop-section {
+  margin-top: 20px;
+}
+
+.shop-section .product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
