@@ -16,6 +16,20 @@
         class="w-full h-auto object-cover transform hover:scale-105 transition duration-300">
     </div>
   </section>
+  <section class="gallery grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+    <div class="overflow-hidden rounded-lg shadow-lg">
+      <img src="images/image1.jpg" alt="Image 1"
+        class="w-full h-auto object-cover transform hover:scale-105 transition duration-300">
+    </div>
+    <div class="overflow-hidden rounded-lg shadow-lg">
+      <img src="images/image2.jpg" alt="Image 2"
+        class="w-full h-auto object-cover transform hover:scale-105 transition duration-300">
+    </div>
+    <div class="overflow-hidden rounded-lg shadow-lg">
+      <img src="images/image3.jpg" alt="Image 3"
+        class="w-full h-auto object-cover transform hover:scale-105 transition duration-300">
+    </div>
+  </section>
 </div>
 
 <?php include 'footer.php'; ?>
