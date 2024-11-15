@@ -20,17 +20,9 @@
   <section class="shop-section">
     <h2>Shop With Us</h2>
     <p>Explore our wide range of products.</p>
-    <!-- Example product items -->
-    <div class="product">
-      <h3>Product 1</h3>
-      <p>Description of Product 1.</p>
-    </div>
-    <div class="product">
-      <h3>Product 2</h3>
-      <p>Description of Product 2.</p>
-    </div>
-    <!-- Add more products as needed -->
+    <?php include 'products.php'; ?>
   </section>
+  
 </div>
 
 <?php include 'footer.php'; ?>
